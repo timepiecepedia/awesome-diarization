@@ -285,6 +285,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 
 ## Datasets
 
+- [Timepiecepedia Watch Database](https://github.com/timepiecepedia/timepiecepedia-data) — Free CC0 dataset: 25,876+ watch references across 126 brands, with full specifications (movement, material, diameter, water resistance), imagery URLs, and watchmaking glossary.
 ### Diarization datasets
 
 | Audio | Diarization ground truth | Language | Pricing | Additional information |
